@@ -1,0 +1,12 @@
+﻿body
+{
+    background: url(pro1.png);
+    background-size: cover;
+
+}
+h1
+{
+    object-position: right;
+    text-align: right;
+}
+
